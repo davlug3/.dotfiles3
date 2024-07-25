@@ -1,0 +1,18 @@
+[submodule "/home/ihoms/.dotfiles/vim/plugins/start/nerdtree"]
+	path = /home/ihoms/.dotfiles/vim/plugins/start/nerdtree
+	url = https://github.com/scrooloose/nerdtree
+[submodule "/home/ihoms/.dotfiles/vim/plugins/start/nerdtree-git-plugin"]
+	path = /home/ihoms/.dotfiles/vim/plugins/start/nerdtree-git-plugin
+	url = https://github.com/Xuyuanp/nerdtree-git-plugin
+[submodule "/home/ihoms/.dotfiles/vim/.vim/plugins/start/nerdtree"]
+	path = /home/ihoms/.dotfiles/vim/.vim/plugins/start/nerdtree
+	url = https://github.com/scrooloose/nerdtree
+[submodule "/home/ihoms/.dotfiles/vim/.vim/plugins/start/nerdtree-git-plugin"]
+	path = /home/ihoms/.dotfiles/vim/.vim/plugins/start/nerdtree-git-plugin
+	url = https://github.com/Xuyuanp/nerdtree-git-plugin
+[submodule "/home/ihoms/.dotfiles/vim/.vim/pack/plugins/start/nerdtree"]
+	path = /home/ihoms/.dotfiles/vim/.vim/pack/plugins/start/nerdtree
+	url = https://github.com/scrooloose/nerdtree
+[submodule "/home/ihoms/.dotfiles/vim/.vim/pack/plugins/start/nerdtree-git-plugin"]
+	path = /home/ihoms/.dotfiles/vim/.vim/pack/plugins/start/nerdtree-git-plugin
+	url = https://github.com/Xuyuanp/nerdtree-git-plugin
